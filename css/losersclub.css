@@ -1,7 +1,11 @@
 
 @font-face {
     font-family: 'Optimus';
-    src: url('Optimus.otf') format('otf'),
+    src: url('fonts/Optimus.otf') format('otf'),
+         url('fonts/optimus-webfont.tff') format('tff'),
+         url('fonts/optimus-webfont.eot') format('eot'),
+         url('fonts/optimus-webfont.woff') format('woff'),
+				 url('fontsoptimus-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
