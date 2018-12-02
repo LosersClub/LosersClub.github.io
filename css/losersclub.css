@@ -1,14 +1,12 @@
-/*
+
 @font-face {
-    font-family: 'Mellony Dry Brush';
-    src: url('mellony_dry_brush-webfont.ttf') format('ttf'),
-         url('mellony_dry_brush-webfont.woff') format('woff'),
-				 url('mellony_dry_brush-webfont.woff2') format('woff2');
+    font-family: 'Optimus';
+    src: url('Optimus.otf') format('otf'),
     font-weight: normal;
     font-style: normal;
 
 }
-*/
+
 body {
   padding: 0;
   margin: 0;
@@ -16,12 +14,12 @@ body {
 }
 
 h3 {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Optimus', sans-serif;
     font-weight: 400: 4rem;
     font-size: 3.5rem;
     margin-bottom: -15px
-    color: #000000;
-    text-shadow: 1px 2px .5px #b6a3f7;
+    color: #111834;
+    text-shadow: 1px 2px .5px #000000;
 }
 h2 {
     font-family: 'Arial', sans-serif;
