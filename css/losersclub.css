@@ -41,6 +41,7 @@ a {
 }
 p {
   font-size: 1.2em;
+  color: #000000;
 }
 
 pGraphics {
@@ -67,6 +68,8 @@ nav {
     background: rgba(17, 24, 52, .75);
     justify-content: space-around;
 }
+
+
 .rectangle {
   width: 100%;
   overflow: auto;
